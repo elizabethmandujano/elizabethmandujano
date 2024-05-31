@@ -1,7 +1,5 @@
 ## Hi there 👋
-### ELIZABETH STEPHANIA HERNANDEZ MANDUJANO
-
-Data Scientist | Machine Learning Engineer
+### Data Scientist | Machine Learning Engineer
 
 Acerca de mí 💬
 
